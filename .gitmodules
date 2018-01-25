@@ -1,3 +1,9 @@
 [submodule "modules"]
 	path = modules
 	url = https://github.com/chronaeon/modules
+[submodule "off-whitepaper"]
+	path = off-whitepaper
+	url = https://www.github.com/chronaeon/off-whitepaper
+[submodule "ether-modules"]
+	path = ether-modules
+	url = https://www.github.com/chronaeon/ether-modules.git
