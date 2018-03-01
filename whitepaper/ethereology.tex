@@ -1,0 +1,61 @@
+\documentclass[a4paper,oneside]{memoir}
+\usepackage{graphicx}
+\usepackage[utf8]{inputenc}
+\usepackage{ragged2e}
+\usepackage[english]{babel}
+%\usepackage{draftwatermark}
+\usepackage{lipsum}
+\usepackage[scaled=.92]{montserrat}
+\usepackage{color,calc}
+\usepackage[T1]{fontenc}
+\usepackage{montserrat}
+\usepackage[edges]{forest}
+\usepackage{dirtytalk}
+\usepackage{listings}
+\usepackage{color}
+\usepackage{multicol}
+\usepackage{setspace}
+
+\makeatletter
+\newcommand\thickhrulefill{\leavevmode \leaders \hrule height 1ex \hfill \kern \z@}
+\setlength\midchapskip{10pt}
+\makechapterstyle{VZ14}{
+	\renewcommand\chapternamenum{}
+	\renewcommand\printchaptername{}
+	\renewcommand\chapnamefont{\Large\scshape}
+	\renewcommand\printchapternum{%
+		\chapnamefont\null\thickhrulefill\quad
+		\@chapapp\space\thechapter\quad\thickhrulefill}
+	\renewcommand\printchapternonum{%
+		\par\thickhrulefill\par\vskip\midchapskip
+		\hrule\vskip\midchapskip
+	}
+	\renewcommand\chaptitlefont{\Huge\scshape\centering}
+	\renewcommand\afterchapternum{%
+		\par\nobreak\vskip\midchapskip\hrule\vskip\midchapskip}
+	\renewcommand\afterchaptertitle{%
+		\par\vskip\midchapskip\hrule\nobreak\vskip\afterchapskip}
+}
+\makeatother
+\chapterstyle{VZ14}
+
+
+\title{Ethereology: The Science of Ethereum}
+\author{Micah Dameron}
+\renewcommand{\baselinestretch}{1.15}
+
+
+\begin{document}
+\maketitle
+
+\begin{abstract}
+Ethereum is poised to change the way the world operates in many fundamental ways. It increases certainty, both for individuals and society, by several orders of magnitude. It gives us a single source of truth to rely on that isn't nearly as subject to interpretation as the institutions and models we're used to. 
+\end{abstract}
+
+%\begin{multicols}{2}
+
+\chapter{Enabling Realistic}
+The key word is enablement. Ethereum  doesn't necessarily provide humanity with a new way of operating. Rather it forcefully interjects a layer of truth between interactions we already have. The goal is not a trustless society, but rather one where trust isn't wasted on institutions that control, temporarily or permanently, offerings to certain life services.
+%\end{multicols}
+
+\end{document}
