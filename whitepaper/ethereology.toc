@@ -1,0 +1,10 @@
+\select@language {english}
+\contentsline {section}{\numberline {1}Facilitating Interaction}{1}
+\contentsline {paragraph}{Trust}{2}
+\contentsline {section}{\numberline {2}Consensus-Based Epistemology}{2}
+\contentsline {subsection}{\numberline {2.1}Decay of Trust}{3}
+\contentsline {subsection}{\numberline {2.2}Blockfacts}{5}
+\contentsline {subsection}{\numberline {2.3}Practically Infallible History}{5}
+\contentsline {section}{\numberline {3}Why Ethereology?}{5}
+\contentsline {section}{\numberline {4}The First Truly Quantitative Economics}{5}
+\contentsline {subsection}{\numberline {4.1}Crypto Economics}{5}
