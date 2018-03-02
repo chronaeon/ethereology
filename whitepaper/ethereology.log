@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.1.24)  1 MAR 2018 11:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.2.24)  2 MAR 2018 05:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -6,341 +6,29 @@ entering extended mode
 (./ethereology.tex
 LaTeX2e <2017-04-15>
 Babel <3.12> and hyphenation patterns for 84 language(s) loaded.
-(/usr/share/texlive/texmf-dist/tex/latex/memoir/memoir.cls
-Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docu
-ment class
-\onelineskip=\skip41
-\lxvchars=\skip42
-\xlvchars=\skip43
-\@memcnta=\count79
-\c@@memmarkcntra=\count80
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
-Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/ifetex/ifetex.sty
-Package: ifetex 2011/12/15 v1.2 ifetex
-
-(/usr/share/texlive/texmf-dist/tex/plain/ifetex/ifetex.tex))
-(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
-Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
 )
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
-Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
-Package ifluatex Info: LuaTeX not detected.
-)
-\stockheight=\skip44
-\stockwidth=\skip45
-\trimtop=\skip46
-\trimedge=\skip47
-
-(/usr/share/texlive/texmf-dist/tex/latex/memoir/mem10.clo
-File: mem10.clo 2008/01/30 v0.3 memoir class 10pt size option
-)
-\binding=\skip48
-\spinemargin=\skip49
-\foremargin=\skip50
-\uppermargin=\skip51
-\lowermargin=\skip52
-\headdrop=\skip53
-\normalrulethickness=\skip54
-\mem@maxheadheight=\skip55
-\mem@maxfootheight=\skip56
-\headwidth=\skip57
-\c@storedpagenumber=\count81
-\memPD=\dimen102
-\m@mabparskip=\skip58
-\thanksmarkwidth=\skip59
-\thanksmarksep=\skip60
-\droptitle=\skip61
-\c@book=\count82
-\c@part=\count83
-\c@chapter=\count84
-\c@section=\count85
-\c@subsection=\count86
-\c@subsubsection=\count87
-\c@paragraph=\count88
-\c@subparagraph=\count89
-\beforechapskip=\skip62
-\midchapskip=\skip63
-\afterchapskip=\skip64
-\chapindent=\skip65
-\bottomsectionskip=\skip66
-\secindent=\skip67
-\beforesecskip=\skip68
-\aftersecskip=\skip69
-\subsecindent=\skip70
-\beforesubsecskip=\skip71
-\aftersubsecskip=\skip72
-\subsubsecindent=\skip73
-\beforesubsubsecskip=\skip74
-\aftersubsubsecskip=\skip75
-\paraindent=\skip76
-\beforeparaskip=\skip77
-\afterparaskip=\skip78
-\subparaindent=\skip79
-\beforesubparaskip=\skip80
-\aftersubparaskip=\skip81
-\pfbreakskip=\skip82
-\c@@ppsavesec=\count90
-\c@@ppsaveapp=\count91
-\ragrparindent=\dimen103
-\everylistparindent=\dimen104
-\parsepi=\skip83
-\topsepi=\skip84
-\itemsepi=\skip85
-\parsepii=\skip86
-\topsepii=\skip87
-\topsepiii=\skip88
-\itemsepii=\skip89
-\itemsepiii=\skip90
-\partopsepii=\skip91
-\partopsepiii=\skip92
-\m@msavetopsep=\skip93
-\m@msavepartopsep=\skip94
-\@enLab=\toks14
-\abstitleskip=\skip95
-\absleftindent=\skip96
-\abs@leftindent=\dimen105
-\absrightindent=\skip97
-\absparindent=\skip98
-\absparsep=\skip99
-\c@vslineno=\count92
-\c@poemline=\count93
-\c@modulo@vs=\count94
-\c@memfvsline=\count95
-\vleftskip=\skip100
-\vrightskip=\skip101
-\stanzaskip=\skip102
-\versewidth=\skip103
-\vgap=\skip104
-\vindent=\skip105
-\vleftmargin=\dimen106
-\c@verse=\count96
-\c@chrsinstr=\count97
-\beforepoemtitleskip=\skip106
-\afterpoemtitleskip=\skip107
-\c@poem=\count98
-\beforePoemTitleskip=\skip108
-\midPoemTitleskip=\skip109
-\afterPoemTitleskip=\skip110
-\col@sep=\dimen107
-\extrarowheight=\dimen108
-\NC@list=\toks15
-\extratabsurround=\skip111
-\backup@length=\skip112
-\TX@col@width=\dimen109
-\TX@old@table=\dimen110
-\TX@old@col=\dimen111
-\TX@target=\dimen112
-\TX@delta=\dimen113
-\TX@cols=\count99
-\TX@ftn=\toks16
-\heavyrulewidth=\dimen114
-\lightrulewidth=\dimen115
-\cmidrulewidth=\dimen116
-\belowrulesep=\dimen117
-\belowbottomsep=\dimen118
-\aboverulesep=\dimen119
-\abovetopsep=\dimen120
-\cmidrulesep=\dimen121
-\cmidrulekern=\dimen122
-\defaultaddspace=\dimen123
-\@cmidla=\count100
-\@cmidlb=\count101
-\@aboverulesep=\dimen124
-\@belowrulesep=\dimen125
-\@thisruleclass=\count102
-\@lastruleclass=\count103
-\@thisrulewidth=\dimen126
-\ctableftskip=\skip113
-\ctabrightskip=\skip114
-\abovecolumnspenalty=\count104
-\@linestogo=\count105
-\@cellstogo=\count106
-\@cellsincolumn=\count107
-\crtok=\toks17
-\@mincolumnwidth=\dimen127
-\c@newflo@tctr=\count108
-\mem@margin@floatbox=\box26
-\@contcwidth=\skip115
-\@contindw=\skip116
-\abovecaptionskip=\skip117
-\belowcaptionskip=\skip118
-\subfloattopskip=\skip119
-\subfloatcapskip=\skip120
-\subfloatcaptopadj=\skip121
-\subfloatbottomskip=\skip122
-\subfloatlabelskip=\skip123
-\subfloatcapmargin=\dimen128
-\c@@contsubnum=\count109
-\m@mscap@capbox=\box27
-\m@mscap@fbox=\box28
-\sidecapsep=\dimen129
-\sidecapwidth=\dimen130
-\m@m@tempdima=\dimen131
-\m@mscapraise=\dimen132
-\sidecapraise=\dimen133
-\m@mscapmainwidth=\dimen134
-\m@mscaplkern=\dimen135
-\beforeepigraphskip=\skip124
-\afterepigraphskip=\skip125
-\epigraphwidth=\skip126
-\epigraphrule=\skip127
-LaTeX Info: Redefining \em on input line 7551.
-LaTeX Info: Redefining \emph on input line 7559.
-\tocentryskip=\skip128
-\tocbaseline=\skip129
-\cftparskip=\skip130
-\cftbeforebookskip=\skip131
-\cftbookindent=\dimen136
-\cftbooknumwidth=\dimen137
-\cftbeforepartskip=\skip132
-\cftpartindent=\skip133
-\cftpartnumwidth=\skip134
-\cftbeforechapterskip=\skip135
-\cftchapterindent=\skip136
-\cftchapternumwidth=\skip137
-\cftbeforesectionskip=\skip138
-\cftsectionindent=\skip139
-\cftsectionnumwidth=\skip140
-\cftbeforesubsectionskip=\skip141
-\cftsubsectionindent=\skip142
-\cftsubsectionnumwidth=\skip143
-\cftbeforesubsubsectionskip=\skip144
-\cftsubsubsectionindent=\skip145
-\cftsubsubsectionnumwidth=\skip146
-\cftbeforeparagraphskip=\skip147
-\cftparagraphindent=\skip148
-\cftparagraphnumwidth=\skip149
-\cftbeforesubparagraphskip=\skip150
-\cftsubparagraphindent=\skip151
-\cftsubparagraphnumwidth=\skip152
-\prechapterprecisshift=\dimen138
-\c@maxsecnumdepth=\count110
-\bibindent=\dimen139
-\bibitemsep=\skip153
-\indexcolsep=\skip154
-\indexrule=\skip155
-\indexmarkstyle=\toks18
-\@indexbox=\insert199
-\glossarycolsep=\dimen140
-\glossaryrule=\dimen141
-\sideparvshift=\skip156
-\sideins=\insert198
-\sidebartopsep=\skip157
-\sidebarhsep=\skip158
-\sidebarvsep=\skip159
-\sidebarwidth=\skip160
-\footmarkwidth=\skip161
-\footmarksep=\skip162
-\footparindent=\skip163
-\footinsdim=\skip164
-\footinsv@r=\insert197
-\@mpfootinsv@r=\insert196
-\m@m@k=\count111
-\m@m@h=\dimen142
-\m@mipn@skip=\skip165
-\sidefootins=\insert195
-\sidefootadjust=\skip166
-\sidefootheight=\skip167
-\sidefoothsep=\skip168
-\sidefootvsep=\skip169
-\sidefootwidth=\skip170
-\m@mdownsf=\skip171
-\c@sidefootnote=\count112
-\sidefootmarkwidth=\skip172
-\sidefootmarksep=\skip173
-\sidefootparindent=\skip174
-\c@pagenote=\count113
-\c@pagenoteshadow=\count114
-\mem@pn@lastkern=\skip175
-\every@verbatim=\toks19
-\afterevery@verbatim=\toks20
-\verbatim@line=\toks21
-\tab@position=\count115
-\verbatim@in@stream=\read1
-\verbatimindent=\skip176
-\verbatim@out=\write3
-\bvboxsep=\skip177
-\c@memfbvline=\count116
-\c@bvlinectr=\count117
-\bvnumlength=\skip178
-\fb@frw=\dimen143
-\fb@frh=\dimen144
-\FrameRule=\dimen145
-\FrameSep=\dimen146
-\c@cp@cntr=\count118
-LaTeX Info: Redefining \: on input line 12068.
-LaTeX Info: Redefining \! on input line 12070.
-\c@ism@mctr=\count119
-\c@xsm@mctr=\count120
-\c@csm@mctr=\count121
-\c@ksm@mctr=\count122
-\c@xksm@mctr=\count123
-\c@cksm@mctr=\count124
-\c@msm@mctr=\count125
-\c@xmsm@mctr=\count126
-\c@cmsm@mctr=\count127
-\c@bsm@mctr=\count128
-\c@workm@mctr=\count129
-\c@sheetsequence=\count130
-\c@lastsheet=\count131
-\c@lastpage=\count132
-\c@figure=\count133
-\c@lofdepth=\count134
-\cftbeforefigureskip=\skip179
-\cftfigureindent=\skip180
-\cftfigurenumwidth=\skip181
-\c@table=\count135
-\c@lotdepth=\count136
-\cftbeforetableskip=\skip182
-\cfttableindent=\skip183
-\cfttablenumwidth=\skip184
-Package abstract [2008/07/23] emulated by memoir.
-Package appendix [2008/07/23] emulated by memoir.
-Package array [2008/09/09] emulated by memoir.
-Package booktabs [2016/05/16] emulated by memoir.
-Package ccaption [2008/07/23] emulated by memoir.
-Package changepage [2008/07/23] emulated by memoir.
-Package chngcntr [2008/07/23] emulated by memoir.
-Package chngpage [2008/07/23] emulated by memoir.
-Package crop emulated by memoir.
-Package dcolumn [2008/07/23] emulated by memoir.
-Package delarray [2008/07/23] emulated by memoir.
-Package enumerate [2008/07/23] emulated by memoir.
-Package epigraph [2008/07/23] emulated by memoir.
-Package ifmtarg [2008/07/23] emulated by memoir.
-Package index [2008/07/23] emulated by memoir.
-Package makeidx [2008/07/23] emulated by memoir.
-Package moreverb [2008/07/23] emulated by memoir.
-Package mparhack [2008/07/23] emulated by memoir.
-Package needspace [2008/07/23] emulated by memoir.
-Package newfile [2008/07/23] emulated by memoir.
-Package nextpage [2008/07/23] emulated by memoir.
-Package pagenote [2008/07/23] emulated by memoir.
-Package parskip [2008/07/23] emulated by memoir.
-Package patchcmd [2008/07/23] emulated by memoir.
-Package setspace [2008/07/23] emulated by memoir.
-Package shortvrb [2008/07/23] emulated by memoir.
-Package showidx [2008/07/23] emulated by memoir.
-Package tabularx [2008/07/23] emulated by memoir.
-Package titleref [2008/07/23] emulated by memoir.
-Package titling [2008/07/23] emulated by memoir.
-Package tocbibind [2008/07/23] emulated by memoir.
-Package tocloft [2008/07/23] emulated by memoir.
-Package tocvsec2 [2008/07/23] emulated by memoir.
-Package verbatim [2008/07/23] emulated by memoir.
-Package verse [2008/07/23] emulated by memoir.
-
-(/usr/share/texlive/texmf-dist/tex/latex/memoir/mempatch.sty
-Package: mempatch 2009/07/24 v6.0f Patches for memoir class v1.6180339
-))
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks22
+\KV@toks@=\toks14
 )
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
@@ -356,13 +44,13 @@ Package graphics Info: Driver file: pdftex.def on input line 99.
 (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2017/06/24 v1.0g Graphics/color driver for pdftex
 ))
-\Gin@req@height=\dimen147
-\Gin@req@width=\dimen148
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
 )
 (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2015/03/17 v1.2c Input encoding file
-\inpenc@prehook=\toks23
-\inpenc@posthook=\toks24
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def
 File: utf8.def 2017/01/28 v1.1t UTF-8 support for inputenc
@@ -683,20 +371,20 @@ Package: ragged2e 2009/05/21 v2.1 ragged2e Package (MS)
 (/usr/share/texlive/texmf-dist/tex/latex/ms/everysel.sty
 Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
 )
-\CenteringLeftskip=\skip185
-\RaggedLeftLeftskip=\skip186
-\RaggedRightLeftskip=\skip187
-\CenteringRightskip=\skip188
-\RaggedLeftRightskip=\skip189
-\RaggedRightRightskip=\skip190
-\CenteringParfillskip=\skip191
-\RaggedLeftParfillskip=\skip192
-\RaggedRightParfillskip=\skip193
-\JustifyingParfillskip=\skip194
-\CenteringParindent=\skip256
-\RaggedLeftParindent=\skip257
-\RaggedRightParindent=\skip258
-\JustifyingParindent=\skip259
+\CenteringLeftskip=\skip43
+\RaggedLeftLeftskip=\skip44
+\RaggedRightLeftskip=\skip45
+\CenteringRightskip=\skip46
+\RaggedLeftRightskip=\skip47
+\RaggedRightRightskip=\skip48
+\CenteringParfillskip=\skip49
+\RaggedLeftParfillskip=\skip50
+\RaggedRightParfillskip=\skip51
+\JustifyingParfillskip=\skip52
+\CenteringParindent=\skip53
+\RaggedLeftParindent=\skip54
+\RaggedRightParindent=\skip55
+\JustifyingParindent=\skip56
 )
 (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
 Package: babel 2017/06/29 3.12 The Babel package
@@ -713,8 +401,8 @@ File: babel.def 2017/06/29 3.12 Babel common definitions
 (/usr/share/texlive/texmf-dist/tex/generic/babel/switch.def
 File: switch.def 2017/06/29 3.12 Babel switching mechanism
 )
-\babel@savecnt=\count137
-\U@D=\dimen149
+\babel@savecnt=\count87
+\U@D=\dimen105
 )
 \l@canadian = a dialect from \language\l@american 
 \l@australian = a dialect from \language\l@british 
@@ -722,7 +410,7 @@ File: switch.def 2017/06/29 3.12 Babel switching mechanism
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.sty
 Package: lipsum 2014/07/27 v1.3 150 paragraphs of Lorem Ipsum dummy text
-\c@lips@count=\count138
+\c@lips@count=\count88
 )
 (/usr/share/texlive/texmf-dist/tex/latex/montserrat/montserrat.sty
 Package: montserrat 2017/02/26 v1.01
@@ -1042,10 +730,10 @@ Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
 
 (/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
 (/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
-\XKV@toks=\toks25
-\XKV@tempa@toks=\toks26
+\XKV@toks=\toks17
+\XKV@tempa@toks=\toks18
 )
-\XKV@depth=\count139
+\XKV@depth=\count89
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 )))
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
@@ -1058,16 +746,16 @@ Package color Info: Driver file: pdftex.def on input line 147.
 )
 (/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count140
-\calc@Bcount=\count141
-\calc@Adimen=\dimen150
-\calc@Bdimen=\dimen151
-\calc@Askip=\skip260
-\calc@Bskip=\skip261
+\calc@Acount=\count90
+\calc@Bcount=\count91
+\calc@Adimen=\dimen106
+\calc@Bdimen=\dimen107
+\calc@Askip=\skip57
+\calc@Bskip=\skip58
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count142
-\calc@Cskip=\skip262
+\calc@Ccount=\count92
+\calc@Cskip=\skip59
 )
 (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
@@ -1083,13 +771,13 @@ Package: forest 2017/07/14 v2.1.5 Drawing (linguistic) trees
 (/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
 (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
-\pgfutil@everybye=\toks27
-\pgfutil@tempdima=\dimen152
-\pgfutil@tempdimb=\dimen153
+\pgfutil@everybye=\toks19
+\pgfutil@tempdima=\dimen108
+\pgfutil@tempdimb=\dimen109
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.t
 ex)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
-\pgfutil@abb=\box29
+\pgfutil@abb=\box26
 (/usr/share/texlive/texmf-dist/tex/latex/ms/everyshi.sty
 Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
 ))
@@ -1104,30 +792,30 @@ Package: pgf 2015/08/07 v3.0.1a (rcs-revision 1.15)
 Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
-\pgfkeys@pathtoks=\toks28
-\pgfkeys@temptoks=\toks29
+\pgfkeys@pathtoks=\toks20
+\pgfkeys@temptoks=\toks21
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.t
 ex
-\pgfkeys@tmptoks=\toks30
+\pgfkeys@tmptoks=\toks22
 ))
-\pgf@x=\dimen154
-\pgf@y=\dimen155
-\pgf@xa=\dimen156
-\pgf@ya=\dimen157
-\pgf@xb=\dimen158
-\pgf@yb=\dimen159
-\pgf@xc=\dimen160
-\pgf@yc=\dimen161
-\w@pgf@writea=\write4
-\r@pgf@reada=\read2
-\c@pgf@counta=\count143
-\c@pgf@countb=\count144
-\c@pgf@countc=\count145
-\c@pgf@countd=\count146
-\t@pgf@toka=\toks31
-\t@pgf@tokb=\toks32
-\t@pgf@tokc=\toks33
+\pgf@x=\dimen110
+\pgf@y=\dimen111
+\pgf@xa=\dimen112
+\pgf@ya=\dimen113
+\pgf@xb=\dimen114
+\pgf@yb=\dimen115
+\pgf@xc=\dimen116
+\pgf@yc=\dimen117
+\w@pgf@writea=\write3
+\r@pgf@reada=\read1
+\c@pgf@counta=\count93
+\c@pgf@countb=\count94
+\c@pgf@countc=\count95
+\c@pgf@countd=\count96
+\t@pgf@toka=\toks23
+\t@pgf@tokb=\toks24
+\t@pgf@tokc=\toks25
  (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
 File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
 )
@@ -1143,8 +831,8 @@ File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.
 tex
 File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
-\pgfsyssoftpath@smallbuffer@items=\count147
-\pgfsyssoftpath@bigbuffer@items=\count148
+\pgfsyssoftpath@smallbuffer@items=\count97
+\pgfsyssoftpath@bigbuffer@items=\count98
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.
 tex
@@ -1174,12 +862,12 @@ Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
-\pgfmath@dimen=\dimen162
-\pgfmath@count=\count149
-\pgfmath@box=\box30
-\pgfmath@toks=\toks34
-\pgfmath@stack@operand=\toks35
-\pgfmath@stack@operation=\toks36
+\pgfmath@dimen=\dimen118
+\pgfmath@count=\count99
+\pgfmath@box=\box27
+\pgfmath@toks=\toks26
+\pgfmath@stack@operand=\toks27
+\pgfmath@stack@operation=\toks28
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code
@@ -1199,57 +887,57 @@ tex)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerari
 thmetics.code.tex)))
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count150
+\c@pgfmathroundto@lastzeros=\count100
 ))
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.te
 x
 File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
-\pgf@picminx=\dimen163
-\pgf@picmaxx=\dimen164
-\pgf@picminy=\dimen165
-\pgf@picmaxy=\dimen166
-\pgf@pathminx=\dimen167
-\pgf@pathmaxx=\dimen168
-\pgf@pathminy=\dimen169
-\pgf@pathmaxy=\dimen170
-\pgf@xx=\dimen171
-\pgf@xy=\dimen172
-\pgf@yx=\dimen173
-\pgf@yy=\dimen174
-\pgf@zx=\dimen175
-\pgf@zy=\dimen176
+\pgf@picminx=\dimen119
+\pgf@picmaxx=\dimen120
+\pgf@picminy=\dimen121
+\pgf@picmaxy=\dimen122
+\pgf@pathminx=\dimen123
+\pgf@pathmaxx=\dimen124
+\pgf@pathminy=\dimen125
+\pgf@pathmaxy=\dimen126
+\pgf@xx=\dimen127
+\pgf@xy=\dimen128
+\pgf@yx=\dimen129
+\pgf@yy=\dimen130
+\pgf@zx=\dimen131
+\pgf@zy=\dimen132
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.
 code.tex
 File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
-\pgf@path@lastx=\dimen177
-\pgf@path@lasty=\dimen178
+\pgf@path@lastx=\dimen133
+\pgf@path@lasty=\dimen134
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code
 .tex
 File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
-\pgf@shorten@end@additional=\dimen179
-\pgf@shorten@start@additional=\dimen180
+\pgf@shorten@end@additional=\dimen135
+\pgf@shorten@start@additional=\dimen136
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.te
 x
 File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
-\pgfpic=\box31
-\pgf@hbox=\box32
-\pgf@layerbox@main=\box33
-\pgf@picture@serial@count=\count151
+\pgfpic=\box28
+\pgf@hbox=\box29
+\pgf@layerbox@main=\box30
+\pgf@picture@serial@count=\count101
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.c
 ode.tex
 File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
-\pgflinewidth=\dimen181
+\pgflinewidth=\dimen137
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformation
 s.code.tex
 File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
-\pgf@pt@x=\dimen182
-\pgf@pt@y=\dimen183
-\pgf@pt@temp=\dimen184
+\pgf@pt@x=\dimen138
+\pgf@pt@y=\dimen139
+\pgf@pt@temp=\dimen140
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
 File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
@@ -1265,12 +953,12 @@ File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.te
 x
 File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
-\pgfarrowsep=\dimen185
+\pgfarrowsep=\dimen141
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
 File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
-\pgf@max=\dimen186
-\pgf@sys@shading@range@num=\count152
+\pgf@max=\dimen142
+\pgf@sys@shading@range@num=\count102
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
 File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
@@ -1278,7 +966,7 @@ File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.
 tex
 File: pgfcoreexternal.code.tex 2014/07/09  (rcs-revision 1.21)
-\pgfexternal@startupbox=\box34
+\pgfexternal@startupbox=\box31
 ))
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.te
 x
@@ -1294,15 +982,15 @@ File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
 )))
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
 File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
-\pgfnodeparttextbox=\box35
+\pgfnodeparttextbox=\box32
 ) (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
 File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
 )
 (/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65
 .sty
 Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
-\pgf@nodesepstart=\dimen187
-\pgf@nodesepend=\dimen188
+\pgf@nodesepstart=\dimen143
+\pgf@nodesepend=\dimen144
 )
 (/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18
 .sty
@@ -1316,10 +1004,10 @@ Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
 Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
-\pgffor@iter=\dimen189
-\pgffor@skip=\dimen190
-\pgffor@stack=\toks37
-\pgffor@toks=\toks38
+\pgffor@iter=\dimen145
+\pgffor@skip=\dimen146
+\pgffor@stack=\toks29
+\pgffor@toks=\toks30
 ))
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
 Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
@@ -1327,31 +1015,31 @@ Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers
 .code.tex
 File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
-\pgf@plot@mark@count=\count153
-\pgfplotmarksize=\dimen191
+\pgf@plot@mark@count=\count103
+\pgfplotmarksize=\dimen147
 )
-\tikz@lastx=\dimen192
-\tikz@lasty=\dimen193
-\tikz@lastxsaved=\dimen194
-\tikz@lastysaved=\dimen256
-\tikzleveldistance=\dimen257
-\tikzsiblingdistance=\dimen258
-\tikz@figbox=\box36
-\tikz@figbox@bg=\box37
-\tikz@tempbox=\box38
-\tikz@tempbox@bg=\box39
-\tikztreelevel=\count154
-\tikznumberofchildren=\count155
-\tikznumberofcurrentchild=\count156
-\tikz@fig@count=\count157
+\tikz@lastx=\dimen148
+\tikz@lasty=\dimen149
+\tikz@lastxsaved=\dimen150
+\tikz@lastysaved=\dimen151
+\tikzleveldistance=\dimen152
+\tikzsiblingdistance=\dimen153
+\tikz@figbox=\box33
+\tikz@figbox@bg=\box34
+\tikz@tempbox=\box35
+\tikz@tempbox@bg=\box36
+\tikztreelevel=\count104
+\tikznumberofchildren=\count105
+\tikznumberofcurrentchild=\count106
+\tikz@fig@count=\count107
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
 File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
-\pgfmatrixcurrentrow=\count158
-\pgfmatrixcurrentcolumn=\count159
-\pgf@matrix@numberofcolumns=\count160
+\pgfmatrixcurrentrow=\count108
+\pgfmatrixcurrentcolumn=\count109
+\pgf@matrix@numberofcolumns=\count110
 )
-\tikz@expandcount=\count161
+\tikz@expandcount=\count111
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
 zlibrarytopaths.code.tex
@@ -1408,26 +1096,26 @@ File: tikzlibraryshapes.multipart.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1
 s.multipart.code.tex
 File: pgflibraryshapes.multipart.code.tex 2010/01/07 v3.0.1a (rcs-revision 1.2)
 
-\pgfnodepartlowerbox=\box40
-\pgfnodeparttwobox=\box41
-\pgfnodepartthreebox=\box42
-\pgfnodepartfourbox=\box43
-\pgfnodeparttwentybox=\box44
-\pgfnodepartnineteenbox=\box45
-\pgfnodeparteighteenbox=\box46
-\pgfnodepartseventeenbox=\box47
-\pgfnodepartsixteenbox=\box48
-\pgfnodepartfifteenbox=\box49
-\pgfnodepartfourteenbox=\box50
-\pgfnodepartthirteenbox=\box51
-\pgfnodeparttwelvebox=\box52
-\pgfnodepartelevenbox=\box53
-\pgfnodeparttenbox=\box54
-\pgfnodepartninebox=\box55
-\pgfnodeparteightbox=\box56
-\pgfnodepartsevenbox=\box57
-\pgfnodepartsixbox=\box58
-\pgfnodepartfivebox=\box59
+\pgfnodepartlowerbox=\box37
+\pgfnodeparttwobox=\box38
+\pgfnodepartthreebox=\box39
+\pgfnodepartfourbox=\box40
+\pgfnodeparttwentybox=\box41
+\pgfnodepartnineteenbox=\box42
+\pgfnodeparteighteenbox=\box43
+\pgfnodepartseventeenbox=\box44
+\pgfnodepartsixteenbox=\box45
+\pgfnodepartfifteenbox=\box46
+\pgfnodepartfourteenbox=\box47
+\pgfnodepartthirteenbox=\box48
+\pgfnodeparttwelvebox=\box49
+\pgfnodepartelevenbox=\box50
+\pgfnodeparttenbox=\box51
+\pgfnodepartninebox=\box52
+\pgfnodeparteightbox=\box53
+\pgfnodepartsevenbox=\box54
+\pgfnodepartsixbox=\box55
+\pgfnodepartfivebox=\box56
 )))
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
 zlibraryfit.code.tex
@@ -1441,15 +1129,15 @@ File: tikzlibrarycalc.code.tex 2013/07/15 v3.0.1a (rcs-revision 1.9)
 s.code.tex
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryfpu.code.tex
 )
-\pgf@intersect@solutions=\count162
+\pgf@intersect@solutions=\count112
 ) (/usr/share/texlive/texmf-dist/tex/latex/pgfopts/pgfopts.sty
 Package: pgfopts 2014/07/10 v2.1a LaTeX package options with pgfkeys
-\pgfopts@list@add@a@toks=\toks39
-\pgfopts@list@add@b@toks=\toks40
+\pgfopts@list@add@a@toks=\toks31
+\pgfopts@list@add@b@toks=\toks32
 )
 (/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2017/01/02 v2.4 e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count163
+\etb@tempcnta=\count113
 )
 (/usr/share/texlive/texmf-dist/tex/latex/elocalloc/elocalloc.sty
 Package: elocalloc 2016/12/15 v0.03 local allocation for LaTeX 2015+ (DPC)
@@ -1460,7 +1148,7 @@ Package: environ 2014/05/04 v0.3 A new way to define environments
 (/usr/share/texlive/texmf-dist/tex/latex/trimspaces/trimspaces.sty
 Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 )
-\@envbody=\toks41
+\@envbody=\toks33
 )
 (/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
 (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
@@ -1468,166 +1156,166 @@ Package: expl3 2017/07/19 L3 programming layer (loader)
 
 (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3-code.tex
 Package: expl3 2017/07/19 L3 programming layer (code)
-\c_max_int=\count164
-\l_tmpa_int=\count165
-\l_tmpb_int=\count166
-\g_tmpa_int=\count167
-\g_tmpb_int=\count168
-\g__intarray_font_int=\count169
-\g__prg_map_int=\count170
-\c_log_iow=\count171
-\l_iow_line_count_int=\count172
-\l__iow_line_target_int=\count173
-\l__iow_one_indent_int=\count174
-\l__iow_indent_int=\count175
-\c_zero_dim=\dimen259
-\c_max_dim=\dimen260
-\l_tmpa_dim=\dimen261
-\l_tmpb_dim=\dimen262
-\g_tmpa_dim=\dimen263
-\g_tmpb_dim=\dimen264
-\c_zero_skip=\skip263
-\c_max_skip=\skip264
-\l_tmpa_skip=\skip265
-\l_tmpb_skip=\skip266
-\g_tmpa_skip=\skip267
-\g_tmpb_skip=\skip268
+\c_max_int=\count114
+\l_tmpa_int=\count115
+\l_tmpb_int=\count116
+\g_tmpa_int=\count117
+\g_tmpb_int=\count118
+\g__intarray_font_int=\count119
+\g__prg_map_int=\count120
+\c_log_iow=\count121
+\l_iow_line_count_int=\count122
+\l__iow_line_target_int=\count123
+\l__iow_one_indent_int=\count124
+\l__iow_indent_int=\count125
+\c_zero_dim=\dimen154
+\c_max_dim=\dimen155
+\l_tmpa_dim=\dimen156
+\l_tmpb_dim=\dimen157
+\g_tmpa_dim=\dimen158
+\g_tmpb_dim=\dimen159
+\c_zero_skip=\skip60
+\c_max_skip=\skip61
+\l_tmpa_skip=\skip62
+\l_tmpb_skip=\skip63
+\g_tmpa_skip=\skip64
+\g_tmpb_skip=\skip65
 \c_zero_muskip=\muskip10
 \c_max_muskip=\muskip11
 \l_tmpa_muskip=\muskip12
 \l_tmpb_muskip=\muskip13
 \g_tmpa_muskip=\muskip14
 \g_tmpb_muskip=\muskip15
-\l_keys_choice_int=\count176
-\c__fp_leading_shift_int=\count177
-\c__fp_middle_shift_int=\count178
-\c__fp_trailing_shift_int=\count179
-\c__fp_big_leading_shift_int=\count180
-\c__fp_big_middle_shift_int=\count181
-\c__fp_big_trailing_shift_int=\count182
-\c__fp_Bigg_leading_shift_int=\count183
-\c__fp_Bigg_middle_shift_int=\count184
-\c__fp_Bigg_trailing_shift_int=\count185
-\c__fp_rand_size_int=\count186
-\c__fp_rand_four_int=\count187
-\c__fp_rand_eight_int=\count188
-\l__sort_length_int=\count189
-\l__sort_min_int=\count190
-\l__sort_top_int=\count191
-\l__sort_max_int=\count192
-\l__sort_true_max_int=\count193
-\l__sort_block_int=\count194
-\l__sort_begin_int=\count266
-\l__sort_end_int=\count267
-\l__sort_A_int=\count268
-\l__sort_B_int=\count269
-\l__sort_C_int=\count270
-\l__tl_build_start_index_int=\count271
-\l__tl_build_index_int=\count272
-\l__tl_analysis_normal_int=\count273
-\l__tl_analysis_index_int=\count274
-\l__tl_analysis_nesting_int=\count275
-\l__tl_analysis_type_int=\count276
-\l__regex_internal_a_int=\count277
-\l__regex_internal_b_int=\count278
-\l__regex_internal_c_int=\count279
-\l__regex_balance_int=\count280
-\l__regex_group_level_int=\count281
-\l__regex_mode_int=\count282
-\c__regex_cs_in_class_mode_int=\count283
-\c__regex_cs_mode_int=\count284
-\l__regex_catcodes_int=\count285
-\l__regex_default_catcodes_int=\count286
-\c__regex_catcode_D_int=\count287
-\c__regex_catcode_S_int=\count288
-\c__regex_catcode_L_int=\count289
-\c__regex_catcode_O_int=\count290
-\c__regex_catcode_A_int=\count291
-\c__regex_all_catcodes_int=\count292
-\l__regex_show_lines_int=\count293
-\l__regex_min_state_int=\count294
-\l__regex_max_state_int=\count295
-\l__regex_left_state_int=\count296
-\l__regex_right_state_int=\count297
-\l__regex_capturing_group_int=\count298
-\l__regex_min_pos_int=\count299
-\l__regex_max_pos_int=\count300
-\l__regex_curr_pos_int=\count301
-\l__regex_start_pos_int=\count302
-\l__regex_success_pos_int=\count303
-\l__regex_curr_char_int=\count304
-\l__regex_curr_catcode_int=\count305
-\l__regex_last_char_int=\count306
-\l__regex_case_changed_char_int=\count307
-\l__regex_curr_state_int=\count308
-\l__regex_step_int=\count309
-\l__regex_min_active_int=\count310
-\l__regex_max_active_int=\count311
-\l__regex_replacement_csnames_int=\count312
-\l__regex_match_count_int=\count313
-\l__regex_min_submatch_int=\count314
-\l__regex_submatch_int=\count315
-\l__regex_zeroth_submatch_int=\count316
-\g__debug_trace_regex_int=\count317
-\c_empty_box=\box60
-\l_tmpa_box=\box61
-\l_tmpb_box=\box62
-\g_tmpa_box=\box63
-\g_tmpb_box=\box64
-\l__box_top_dim=\dimen265
-\l__box_bottom_dim=\dimen266
-\l__box_left_dim=\dimen267
-\l__box_right_dim=\dimen268
-\l__box_top_new_dim=\dimen269
-\l__box_bottom_new_dim=\dimen270
-\l__box_left_new_dim=\dimen271
-\l__box_right_new_dim=\dimen272
-\l__box_internal_box=\box65
-\l__coffin_internal_box=\box66
-\l__coffin_internal_dim=\dimen273
-\l__coffin_offset_x_dim=\dimen274
-\l__coffin_offset_y_dim=\dimen275
-\l__coffin_x_dim=\dimen276
-\l__coffin_y_dim=\dimen277
-\l__coffin_x_prime_dim=\dimen278
-\l__coffin_y_prime_dim=\dimen279
-\c_empty_coffin=\box67
-\l__coffin_aligned_coffin=\box68
-\l__coffin_aligned_internal_coffin=\box69
-\l_tmpa_coffin=\box70
-\l_tmpb_coffin=\box71
-\l__coffin_display_coffin=\box72
-\l__coffin_display_coord_coffin=\box73
-\l__coffin_display_pole_coffin=\box74
-\l__coffin_display_offset_dim=\dimen280
-\l__coffin_display_x_dim=\dimen281
-\l__coffin_display_y_dim=\dimen282
-\l__coffin_bounding_shift_dim=\dimen283
-\l__coffin_left_corner_dim=\dimen284
-\l__coffin_right_corner_dim=\dimen285
-\l__coffin_bottom_corner_dim=\dimen286
-\l__coffin_top_corner_dim=\dimen287
-\l__coffin_scaled_total_height_dim=\dimen288
-\l__coffin_scaled_width_dim=\dimen289
+\l_keys_choice_int=\count126
+\c__fp_leading_shift_int=\count127
+\c__fp_middle_shift_int=\count128
+\c__fp_trailing_shift_int=\count129
+\c__fp_big_leading_shift_int=\count130
+\c__fp_big_middle_shift_int=\count131
+\c__fp_big_trailing_shift_int=\count132
+\c__fp_Bigg_leading_shift_int=\count133
+\c__fp_Bigg_middle_shift_int=\count134
+\c__fp_Bigg_trailing_shift_int=\count135
+\c__fp_rand_size_int=\count136
+\c__fp_rand_four_int=\count137
+\c__fp_rand_eight_int=\count138
+\l__sort_length_int=\count139
+\l__sort_min_int=\count140
+\l__sort_top_int=\count141
+\l__sort_max_int=\count142
+\l__sort_true_max_int=\count143
+\l__sort_block_int=\count144
+\l__sort_begin_int=\count145
+\l__sort_end_int=\count146
+\l__sort_A_int=\count147
+\l__sort_B_int=\count148
+\l__sort_C_int=\count149
+\l__tl_build_start_index_int=\count150
+\l__tl_build_index_int=\count151
+\l__tl_analysis_normal_int=\count152
+\l__tl_analysis_index_int=\count153
+\l__tl_analysis_nesting_int=\count154
+\l__tl_analysis_type_int=\count155
+\l__regex_internal_a_int=\count156
+\l__regex_internal_b_int=\count157
+\l__regex_internal_c_int=\count158
+\l__regex_balance_int=\count159
+\l__regex_group_level_int=\count160
+\l__regex_mode_int=\count161
+\c__regex_cs_in_class_mode_int=\count162
+\c__regex_cs_mode_int=\count163
+\l__regex_catcodes_int=\count164
+\l__regex_default_catcodes_int=\count165
+\c__regex_catcode_D_int=\count166
+\c__regex_catcode_S_int=\count167
+\c__regex_catcode_L_int=\count168
+\c__regex_catcode_O_int=\count169
+\c__regex_catcode_A_int=\count170
+\c__regex_all_catcodes_int=\count171
+\l__regex_show_lines_int=\count172
+\l__regex_min_state_int=\count173
+\l__regex_max_state_int=\count174
+\l__regex_left_state_int=\count175
+\l__regex_right_state_int=\count176
+\l__regex_capturing_group_int=\count177
+\l__regex_min_pos_int=\count178
+\l__regex_max_pos_int=\count179
+\l__regex_curr_pos_int=\count180
+\l__regex_start_pos_int=\count181
+\l__regex_success_pos_int=\count182
+\l__regex_curr_char_int=\count183
+\l__regex_curr_catcode_int=\count184
+\l__regex_last_char_int=\count185
+\l__regex_case_changed_char_int=\count186
+\l__regex_curr_state_int=\count187
+\l__regex_step_int=\count188
+\l__regex_min_active_int=\count189
+\l__regex_max_active_int=\count190
+\l__regex_replacement_csnames_int=\count191
+\l__regex_match_count_int=\count192
+\l__regex_min_submatch_int=\count193
+\l__regex_submatch_int=\count194
+\l__regex_zeroth_submatch_int=\count195
+\g__debug_trace_regex_int=\count196
+\c_empty_box=\box57
+\l_tmpa_box=\box58
+\l_tmpb_box=\box59
+\g_tmpa_box=\box60
+\g_tmpb_box=\box61
+\l__box_top_dim=\dimen160
+\l__box_bottom_dim=\dimen161
+\l__box_left_dim=\dimen162
+\l__box_right_dim=\dimen163
+\l__box_top_new_dim=\dimen164
+\l__box_bottom_new_dim=\dimen165
+\l__box_left_new_dim=\dimen166
+\l__box_right_new_dim=\dimen167
+\l__box_internal_box=\box62
+\l__coffin_internal_box=\box63
+\l__coffin_internal_dim=\dimen168
+\l__coffin_offset_x_dim=\dimen169
+\l__coffin_offset_y_dim=\dimen170
+\l__coffin_x_dim=\dimen171
+\l__coffin_y_dim=\dimen172
+\l__coffin_x_prime_dim=\dimen173
+\l__coffin_y_prime_dim=\dimen174
+\c_empty_coffin=\box64
+\l__coffin_aligned_coffin=\box65
+\l__coffin_aligned_internal_coffin=\box66
+\l_tmpa_coffin=\box67
+\l_tmpb_coffin=\box68
+\l__coffin_display_coffin=\box69
+\l__coffin_display_coord_coffin=\box70
+\l__coffin_display_pole_coffin=\box71
+\l__coffin_display_offset_dim=\dimen175
+\l__coffin_display_x_dim=\dimen176
+\l__coffin_display_y_dim=\dimen177
+\l__coffin_bounding_shift_dim=\dimen178
+\l__coffin_left_corner_dim=\dimen179
+\l__coffin_right_corner_dim=\dimen180
+\l__coffin_bottom_corner_dim=\dimen181
+\l__coffin_top_corner_dim=\dimen182
+\l__coffin_scaled_total_height_dim=\dimen183
+\l__coffin_scaled_width_dim=\dimen184
 )
 (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3pdfmode.def
 File: l3pdfmode.def 2017/03/18 v L3 Experimental driver: PDF mode
-\l__driver_color_stack_int=\count318
-\l__driver_tmp_box=\box75
+\l__driver_color_stack_int=\count197
+\l__driver_tmp_box=\box72
 ))
 Package: xparse 2017/07/19 L3 Experimental document command parser
-\l__xparse_current_arg_int=\count319
-\g__xparse_grabber_int=\count320
-\l__xparse_m_args_int=\count321
-\l__xparse_mandatory_args_int=\count322
-\l__xparse_v_nesting_int=\count323
+\l__xparse_current_arg_int=\count198
+\g__xparse_grabber_int=\count199
+\l__xparse_m_args_int=\count266
+\l__xparse_mandatory_args_int=\count267
+\l__xparse_v_nesting_int=\count268
 )
 (/usr/share/texlive/texmf-dist/tex/latex/inlinedef/inlinedef.sty
 Package: inlinedef 2008/07/10 v1.0 Inlined expansions within definitions
-\ID@toks=\toks42
-\ID@count=\count324
+\ID@toks=\toks34
+\ID@count=\count269
 )
-\ID@usercommands=\toks43
+\ID@usercommands=\toks35
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
@@ -1638,26 +1326,26 @@ Package: inlinedef 2008/07/10 v1.0 Inlined expansions within definitions
 . 
 . Defining command \ProvidesForestLibrary with sig. 'm O{}' on line 176.
 .................................................
-\safeloop@depth=\count325
-\safeRKloop@depth=\count326
-\forest@temp@dimen=\dimen290
-\forest@temp@count=\count327
-\forest@n=\count328
-\forest@temp@global@count=\count329
-\forest@temp@toks=\toks44
-\forest@temparray@M=\count330
-\forest@temparray@N=\count331
-\forest@global@temparray@M=\count332
-\forest@global@temparray@N=\count333
-\forest@isnum@count=\count334
-\forest@isdim@nonintpart=\count335
-\forest@isdim@dimen=\dimen291
-\forest@sort@m=\count336
-\forest@sort@k=\count337
-\forest@sort@p=\count338
-\bracket@content=\toks45
-\bracket@afterthought=\toks46
-\forest@node@maxid=\count339
+\safeloop@depth=\count270
+\safeRKloop@depth=\count271
+\forest@temp@dimen=\dimen185
+\forest@temp@count=\count272
+\forest@n=\count273
+\forest@temp@global@count=\count274
+\forest@temp@toks=\toks36
+\forest@temparray@M=\count275
+\forest@temparray@N=\count276
+\forest@global@temparray@M=\count277
+\forest@global@temparray@N=\count278
+\forest@isnum@count=\count279
+\forest@isdim@nonintpart=\count280
+\forest@isdim@dimen=\dimen186
+\forest@sort@m=\count281
+\forest@sort@k=\count282
+\forest@sort@p=\count283
+\bracket@content=\toks37
+\bracket@afterthought=\toks38
+\forest@node@maxid=\count284
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
@@ -1669,29 +1357,29 @@ Package: inlinedef 2008/07/10 v1.0 Inlined expansions within definitions
 . Defining command \forestdebugtypeouttree with sig. 'd() O{\forest@cn }' on
 . line 2348.
 .................................................
-\forest@process@left@M=\count340
-\forest@process@left@N=\count341
-\forest@process@right@M=\count342
-\forest@process@right@N=\count343
-\forest@process@saved@M=\count344
-\forest@process@saved@N=\count345
-\forest@process@result@M=\count346
-\forest@process@result@N=\count347
-\forest@process@n=\count348
-\forest@nodewalk@branch@toks=\toks47
-\forest@nodewalk@shortsteps@resolution=\toks48
-\forest@do@dynamics=\toks49
-\forest@box=\box76
-\forest@xg=\dimen292
-\forest@yg=\dimen293
-\forest@xs=\dimen294
-\forest@ys=\dimen295
-\forest@pi@toks=\toks50
-\forest@segment@toks=\toks51
-\forest@PIi@toks=\toks52
-\forest@PIii@toks=\toks53
-\forest@copy@in=\read3
-\forest@copy@out=\write5
+\forest@process@left@M=\count285
+\forest@process@left@N=\count286
+\forest@process@right@M=\count287
+\forest@process@right@N=\count288
+\forest@process@saved@M=\count289
+\forest@process@saved@N=\count290
+\forest@process@result@M=\count291
+\forest@process@result@N=\count292
+\forest@process@n=\count293
+\forest@nodewalk@branch@toks=\toks39
+\forest@nodewalk@shortsteps@resolution=\toks40
+\forest@do@dynamics=\toks41
+\forest@box=\box73
+\forest@xg=\dimen187
+\forest@yg=\dimen188
+\forest@xs=\dimen189
+\forest@ys=\dimen190
+\forest@pi@toks=\toks42
+\forest@segment@toks=\toks43
+\forest@PIi@toks=\toks44
+\forest@PIii@toks=\toks45
+\forest@copy@in=\read2
+\forest@copy@out=\write4
 .................................................
 . LaTeX info: "xparse/define-environment"
 . 
@@ -1702,8 +1390,8 @@ Package: inlinedef 2008/07/10 v1.0 Inlined expansions within definitions
 . 
 . Defining command \Forest with sig. 's D(){} m' on line 8515.
 .................................................
-\forest@externalize@max@outer@n=\count349
-\forest@externalize@inner@n=\count350
+\forest@externalize@max@outer@n=\count294
+\forest@externalize@inner@n=\count295
 )
 (/usr/share/texlive/texmf-dist/tex/latex/forest/forest-lib-edges.sty
 Package: forest-lib-edges 2016/12/05 v0.1.1
@@ -1725,6 +1413,11 @@ Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 )
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
 Package etexcmds Info: Could not find \expanded.
 (etexcmds)             That can mean that you are not using pdfTeX 1.50 or
 (etexcmds)             that some package has redefined \expanded.
@@ -1733,27 +1426,27 @@ Package etexcmds Info: Could not find \expanded.
 (/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
-\c@dirtytalk@qdepth=\count351
+\c@dirtytalk@qdepth=\count296
 )
 (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
-\lst@mode=\count352
-\lst@gtempboxa=\box77
-\lst@token=\toks54
-\lst@length=\count353
-\lst@currlwidth=\dimen296
-\lst@column=\count354
-\lst@pos=\count355
-\lst@lostspace=\dimen297
-\lst@width=\dimen298
-\lst@newlines=\count356
-\lst@lineno=\count357
-\lst@maxwidth=\dimen299
+\lst@mode=\count297
+\lst@gtempboxa=\box74
+\lst@token=\toks46
+\lst@length=\count298
+\lst@currlwidth=\dimen191
+\lst@column=\count299
+\lst@pos=\count300
+\lst@lostspace=\dimen192
+\lst@width=\dimen193
+\lst@newlines=\count301
+\lst@lineno=\count302
+\lst@maxwidth=\dimen194
 
 (/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
-\c@lstnumber=\count358
-\lst@skipnumbers=\count359
-\lst@framebox=\box78
+\c@lstnumber=\count303
+\lst@skipnumbers=\count304
+\lst@framebox=\box75
 )
 (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
 File: listings.cfg 2015/06/04 1.6 listings configuration
@@ -1762,27 +1455,30 @@ Package: listings 2015/06/04 1.6 (Carsten Heinz)
 
 (/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
 Package: multicol 2017/04/11 v1.8q multicolumn formatting (FMi)
-\c@tracingmulticols=\count360
-\mult@box=\box79
-\multicol@leftmargin=\dimen300
-\c@unbalance=\count361
-\c@collectmore=\count362
-\doublecol@number=\count363
-\multicoltolerance=\count364
-\multicolpretolerance=\count365
-\full@width=\dimen301
-\page@free=\dimen302
-\premulticols=\dimen303
-\postmulticols=\dimen304
-\multicolsep=\skip269
-\multicolbaselineskip=\skip270
-\partial@page=\box80
-\last@line=\box81
-\maxbalancingoverflow=\dimen305
-\mult@rightbox=\box82
-\mult@grightbox=\box83
-\mult@gfirstbox=\box84
-\mult@firstbox=\box85
+\c@tracingmulticols=\count305
+\mult@box=\box76
+\multicol@leftmargin=\dimen195
+\c@unbalance=\count306
+\c@collectmore=\count307
+\doublecol@number=\count308
+\multicoltolerance=\count309
+\multicolpretolerance=\count310
+\full@width=\dimen196
+\page@free=\dimen197
+\premulticols=\dimen198
+\postmulticols=\dimen199
+\multicolsep=\skip66
+\multicolbaselineskip=\skip67
+\partial@page=\box77
+\last@line=\box78
+\maxbalancingoverflow=\dimen256
+\mult@rightbox=\box79
+\mult@grightbox=\box80
+\mult@gfirstbox=\box81
+\mult@firstbox=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
 \@tempa=\box86
 \@tempa=\box87
 \@tempa=\box88
@@ -1797,59 +1493,98 @@ Package: multicol 2017/04/11 v1.8q multicolumn formatting (FMi)
 \@tempa=\box97
 \@tempa=\box98
 \@tempa=\box99
-\@tempa=\box100
-\@tempa=\box101
-\@tempa=\box102
-\c@columnbadness=\count366
-\c@finalcolumnbadness=\count367
-\last@try=\dimen306
-\multicolovershoot=\dimen307
-\multicolundershoot=\dimen308
-\mult@nat@firstbox=\box103
-\colbreak@box=\box104
-\mc@col@check@num=\count368
-) (./ethereology.aux)
+\c@columnbadness=\count311
+\c@finalcolumnbadness=\count312
+\last@try=\dimen257
+\multicolovershoot=\dimen258
+\multicolundershoot=\dimen259
+\mult@nat@firstbox=\box100
+\colbreak@box=\box101
+\mc@col@check@num=\count313
+)
+(/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(/usr/share/texlive/texmf-dist/tex/generic/ulem/ulem.sty
+\UL@box=\box102
+\UL@hyphenbox=\box103
+\UL@skip=\skip68
+\UL@hook=\toks47
+\UL@height=\dimen260
+\UL@pe=\count314
+\UL@pixel=\dimen261
+\ULC@box=\box104
+Package: ulem 2012/05/18
+\ULdepth=\dimen262
+)
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count315
+\Gm@cntv=\count316
+\c@Gm@tempcnt=\count317
+\Gm@bindingoffset=\dimen263
+\Gm@wd@mp=\dimen264
+\Gm@odd@mp=\dimen265
+\Gm@even@mp=\dimen266
+\Gm@layoutwidth=\dimen267
+\Gm@layoutheight=\dimen268
+\Gm@layouthoffset=\dimen269
+\Gm@layoutvoffset=\dimen270
+\Gm@dimlist=\toks48
+)
+(./ethereology.aux)
 \openout1 = `ethereology.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for LY1/ptm/m/n on input line 48.
-LaTeX Font Info:    Try loading font information for LY1+ptm on input line 48.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for LY1/ptm/m/n on input line 28.
+LaTeX Font Info:    Try loading font information for LY1+ptm on input line 28.
  (/usr/share/texlive/texmf-dist/tex/latex/ly1/ly1ptm.fd
 File: ly1ptm.fd 2001/02/01 font definitions for LY1/ptm using Berry names.
 )
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 48.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 48.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 28.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 28.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    ... okay on input line 28.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count369
-\scratchdimen=\dimen309
+\scratchcounter=\count318
+\scratchdimen=\dimen271
 \scratchbox=\box105
-\nofMPsegments=\count370
-\nofMParguments=\count371
-\everyMPshowfont=\toks55
-\MPscratchCnt=\count372
-\MPscratchDim=\dimen310
-\MPnumerator=\count373
-\makeMPintoPDFobject=\count374
-\everyMPtoPDFconversion=\toks56
+\nofMPsegments=\count319
+\nofMParguments=\count320
+\everyMPshowfont=\toks49
+\MPscratchCnt=\count321
+\MPscratchDim=\dimen272
+\MPnumerator=\count322
+\makeMPintoPDFobject=\count323
+\everyMPtoPDFconversion=\toks50
 ) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
@@ -1879,42 +1614,88 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 48.
-\c@mv@tabular=\count375
-\c@mv@boldtabular=\count376
+LaTeX Info: Redefining \selectfont on input line 28.
+\c@mv@tabular=\count324
+\c@mv@boldtabular=\count325
  ABD: EveryShipout initializing macros
-\c@lstlisting=\count377
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 49.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 49.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 49.
+\c@lstlisting=\count326
 
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(89.62709pt, 418.25368pt, 89.6271pt)
+* v-part:(T,H,B)=(101.40665pt, 591.5302pt, 152.11pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=418.25368pt
+* \textheight=591.5302pt
+* \oddsidemargin=17.3571pt
+* \evensidemargin=17.3571pt
+* \topmargin=-7.86334pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=57.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 29.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 29.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 29.
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 56.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 56.
 
-] (./ethereology.aux) ) 
+Underfull \hbox (badness 10000) in paragraph at lines 72--72
+[]\T1/cmr/bx/n/12 A philo-soph-i-cally guided
+ []
+
+[2] (./ethereology.aux) ) 
 Here is how much of TeX's memory you used:
- 36882 strings out of 492990
- 795263 string characters out of 6135005
- 957368 words of memory out of 5000000
- 39994 multiletter control sequences out of 15000+600000
- 540911 words of font info for 41 fonts, out of 8000000 for 9000
+ 34066 strings out of 492990
+ 757172 string characters out of 6135005
+ 909264 words of memory out of 5000000
+ 37167 multiletter control sequences out of 15000+600000
+ 544673 words of font info for 46 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 67i,11n,69p,10385b,275s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.e
-nc}</usr/share/texmf/fonts/type1/public/cm-super/sfbx0900.pfb></usr/share/texmf
-/fonts/type1/public/cm-super/sfcc1200.pfb></usr/share/texmf/fonts/type1/public/
-cm-super/sfcc2074.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0900.pf
-b></usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf/
-fonts/type1/public/cm-super/sfrm1095.pfb></usr/share/texmf/fonts/type1/public/c
-m-super/sfrm1440.pfb>
-Output written on ethereology.pdf (2 pages, 94735 bytes).
+ 61i,8n,69p,10385b,311s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1
+.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></
+usr/share/texmf/fonts/type1/public/cm-super/sfbx0900.pfb></usr/share/texmf/font
+s/type1/public/cm-super/sfbx1000.pfb></usr/share/texmf/fonts/type1/public/cm-su
+per/sfbx1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1440.pfb></u
+sr/share/texmf/fonts/type1/public/cm-super/sfrm0600.pfb></usr/share/texmf/fonts
+/type1/public/cm-super/sfrm0700.pfb></usr/share/texmf/fonts/type1/public/cm-sup
+er/sfrm0800.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0900.pfb></us
+r/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf/fonts/
+type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/cm-supe
+r/sfrm1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1000.pfb>
+Output written on ethereology.pdf (2 pages, 196725 bytes).
 PDF statistics:
- 43 PDF objects out of 1000 (max. 8388607)
- 31 compressed objects within 1 object stream
+ 67 PDF objects out of 1000 (max. 8388607)
+ 49 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
