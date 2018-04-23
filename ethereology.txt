@@ -1,0 +1,4 @@
+- block dissector
+- historical approach
+- analytical approach
+- philosophical approach
