@@ -1,0 +1,15 @@
+1. landing page w/ navigation using HTML, CSS, jQuery, Bootstrap Javascript
+2. UML definitions for any software
+3. Development Lab (C, embedded systems, hardware, implementation fuzzing/testing)
+4. Analytics lab (How to Measure Anything, Statistical Methods, Fat Tails, Black Swans, R analysis of Ethereum, Formal Ontology)
+
+
+Data Science
+Embedded Systems
+Applied Philosophy
+
+
+Data Science: Analytics
+Embedded Systems: C
+Applied Philosophy: Tests, descriptive analysis, applied math, 
+Publishing Hub: Free Media (decentralized)
