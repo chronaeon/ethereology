@@ -1,12 +1,6 @@
-[submodule "modules"]
-	path = modules
-	url = https://github.com/chronaeon/modules
 [submodule "beigepaper"]
 	path = beigepaper
 	url = https://www.github.com/chronaeon/beigepaper
-[submodule "ether-modules"]
-	path = ether-modules
-	url = https://www.github.com/chronaeon/ether-modules.git
 [submodule "cthereum"]
 	path = cthereum
 	url = https://github.com/chronaeon/cthereum
